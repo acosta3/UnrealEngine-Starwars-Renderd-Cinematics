@@ -16,9 +16,8 @@ The goal of this project was to practice building a full environment from scratc
 - A small, contained **environment scene** built in Unreal Engine 5
 - Static mesh layout / set dressing
 - Custom lighting and post-processing setup
-- Final renders saved as **4K images** (see `renders/` folder)
 
-> 📸 Final images are in the repo.
+> 📸 **Final images are in the google drive provided** :https://drive.google.com/drive/folders/1JXHLfXMQ4ztG_8Hn97xrh_loSHeNh0Km?usp=sharing .
 
 ## 🛠 Tools & Technologies
 
@@ -27,7 +26,7 @@ The goal of this project was to practice building a full environment from scratc
 - Material Editor & material instances
 - Lighting (directional, point/spot lights, skylight)
 - Camera actors & high-resolution rendering
-- **Git + GitHub** for version control and sharing
+
 
 ## 📚 Skills Practiced
 
